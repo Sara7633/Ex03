@@ -1,5 +1,9 @@
 conflict from new-branch
 =======
 conflict from branch2
+
+second conflict branch2
+=======
 conflict fixed
 3
+
